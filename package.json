@@ -1,0 +1,19 @@
+{
+    "name": "array-stream",
+    "version": "1.0.0",
+    "description": "stream from array",
+    "keywords": ["stream", "array"],
+    "license": "MIT",
+    "homepage": "https://github.com/coolwust/array-stream",
+    "author": {
+        "name": "Xianghan Wang",
+        "email": "coolwust@gmail.com"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:coolwust/array-stream.git"
+    }
+}
