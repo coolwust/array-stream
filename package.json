@@ -5,6 +5,7 @@
     "keywords": ["stream", "array"],
     "license": "MIT",
     "homepage": "https://github.com/coolwust/array-stream",
+    "main": "index.js",
     "author": {
         "name": "Xianghan Wang",
         "email": "coolwust@gmail.com"
